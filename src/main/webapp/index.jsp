@@ -1,13 +1,12 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Cadastro de Animais </title>
+        <title> Cadastro de Carros </title>
     </head>
     <body>
         
-        <h1> Cadastro de Animais </h1>
+        <h1> Cadastro de Carros </h1>
         
         
     </body>
